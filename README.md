@@ -210,7 +210,7 @@ Being a DIK 的游戏程序、剧情、人物、美术、音乐、视频、文�
 **项目：** Being a DIK Walkthrough/Cheat Mod
 **Mod 作者：** Scrappy
 **本项目参考/整合版本：** v0.12.1
-
+**Scrappy：Being a DIK - Walkthrough/Cheat mod 原发布页**https://www.patreon.com/u19542127/posts/being-dik-cheat-30785010?utm_source=chatgpt.com
 原始 Mod 请以 **Scrappy 本人发布的版本**为准。
 
 本仓库对 Scrappy Mod 所做的工作主要限于：
